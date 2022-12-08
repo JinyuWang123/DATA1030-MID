@@ -1,1 +1,2 @@
-SRC/*.ipynb_checkpoint
+.DS_Store
+.ipynb_checkpoints
